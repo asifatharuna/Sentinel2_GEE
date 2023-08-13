@@ -4,7 +4,7 @@
 **Copyright © 2022 Asifat Haruna. All rights reserved**  
 
 **Large-Scale Preprocessing of Sentinel-2 Data for Time Series Analysis **
-![](./graphics/optical_sar_fusion.png)
+![](./clouds_preprocessing_s2.png)
 
 This project demonstrates how to efficiently prepare a dense optical Sentinel-2 time series using the distributed cloud platform of Google Earth Engine.   
 
